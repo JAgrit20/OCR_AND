@@ -1,0 +1,2 @@
+rootProject.name='screenReader_firebase2'
+include ':app'

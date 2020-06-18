@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "216183389991",
+    "firebase_url": "https://androidstudio2-49d4c.firebaseio.com",
+    "project_id": "androidstudio2-49d4c",
+    "storage_bucket": "androidstudio2-49d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216183389991:android:3f5d8b4c10718f2e45f302",
+        "android_client_info": {
+          "package_name": "com.example.screenreader_firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216183389991-t48ejh5kcs4d88ihmb1eboru7432lpol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEG0EAgtyQ2PHxNQVmObj2Xrf80YSOvac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216183389991-t48ejh5kcs4d88ihmb1eboru7432lpol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
