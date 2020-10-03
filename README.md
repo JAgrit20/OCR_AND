@@ -1,2 +1,2 @@
 # OCR_AND
- ocr using firebase (ML kit) and android Studio (java)
+ Create OCR using firebase (ML kit) and android Studio (java)
